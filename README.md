@@ -3,5 +3,6 @@ This is a fund me app with a simple front end thatt lets the user fund/withdraw 
 
 # you need to install 
 1- https://github.com/ippy1997/fund-me this repo so you can connect to the backend
+<br>
 2- have metamask 
 
